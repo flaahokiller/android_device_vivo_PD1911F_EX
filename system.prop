@@ -1,6 +1,6 @@
 ro.product.brand=vivo
-ro.product.name=PD1911F_EX
-ro.product.device=PD1911F_EX
-ro.product.model=vivo 1951
-ro.build.product=sdm710
+ro.product.name=PD1928BF_EX
+ro.product.device=PD1928BF_EX
+ro.product.model=vivo 1916
+ro.build.product=sdm665
 ro.treble.enabled=true
